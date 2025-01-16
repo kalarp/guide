@@ -10,7 +10,7 @@
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="file:///C:/Users/kalar/Documents/My Projects/CulinaryGuide/Docs/.git/"
+  Database="file:///C:/Users/kalar/Documents/My Projects/CulinaryGuide/.git/"
   DatabaseRoot="file:///C:/Users/kalar/Documents/My Projects/CulinaryGuide/Docs"
   PushToRemote="true"
   RemoteRepository="origin"
