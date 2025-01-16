@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Pictures"
+    Comment=""
+    OriginalName="Pictures" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Reccomendations"
+    Comment=""
+    OriginalName="Reccomendations" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Prices"
+    Comment=""
+    OriginalName="Prices" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Lumberjack"
+    Comment="" />
+</CatapultConditionTagSet>

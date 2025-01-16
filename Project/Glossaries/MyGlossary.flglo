@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>restaurant</Term>
+    </Terms>
+    <Definition
+      Link="">a place that sells meals prepared and served on the premises.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>culinary</Term>
+    </Terms>
+    <Definition
+      Link="">relating to the practice of cookery or the activity of cooking; connected with cooking or food.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>cuisine</Term>
+    </Terms>
+    <Definition
+      Link="">a style or method of cooking.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term5"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>tasting</Term>
+    </Terms>
+    <Definition
+      Link="">a social event at which something (such as food or wine) is sampled and tasted.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="MyGlossary.Term6"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>recipe</Term>
+    </Terms>
+    <Definition
+      Link="">a set of instructions for making food.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

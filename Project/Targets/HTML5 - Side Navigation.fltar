@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="all"
+  MasterToc="/Project/TOCs/SideNav.fltoc"
+  ConditionTagExpression="exclude[&quot;Condition 1.Reccomendations&quot;]"
+  EquationsOutputType="PNG"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ExcludeUnreferencedContent="true"
+  TopNavTocPath="true"
+  Skin="/Project/Skins/HTML5 - Side Navigation Skin.flskn"
+  ReplaceSpacesWithUnderscores="true"
+  DefaultUrl="/Content/Home.htm"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterStylesheetOverride="false"
+  TopicToolbarSkin="/Project/Skins/Toolbar.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations></Destinations>
+</CatapultTarget>

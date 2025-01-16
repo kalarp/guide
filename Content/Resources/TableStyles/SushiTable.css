@@ -1,0 +1,370 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: SushiTable;
+	border-collapse: collapse;
+	border-left-style: dotted;
+	border-left-width: 5px;
+	border-left-color: #0000ff;
+	border-right-style: dotted;
+	border-right-width: 5px;
+	border-right-color: #0000ff;
+	border-top-style: dotted;
+	border-top-width: 5px;
+	border-top-color: #0000ff;
+	border-bottom-style: dotted;
+	border-bottom-width: 5px;
+	border-bottom-color: #0000ff;
+	max-id: 3;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #0000ff;
+	name: Column1;
+	id: 0;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #0000ff;
+	name: Body1;
+	id: 1;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-SushiTable
+{
+	border-collapse: collapse;
+	border-left-style: dotted;
+	border-left-color: #0000ff;
+	border-left-width: 5px;
+	border-right-style: dotted;
+	border-right-color: #0000ff;
+	border-right-width: 5px;
+	border-top-style: dotted;
+	border-top-color: #0000ff;
+	border-top-width: 5px;
+	border-bottom-style: dotted;
+	border-bottom-color: #0000ff;
+	border-bottom-width: 5px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-SushiTable-Column-Column1
+{
+	
+}
+
+.TableStyle-SushiTable-HeadI-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-HeadI-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadE-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-HeadE-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadF-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-HeadF-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadH-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-HeadH-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadD-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-HeadD-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadC-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-HeadC-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadB-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-HeadB-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadA-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-HeadA-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-HeadG-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-HeadG-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootI-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootE-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootF-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootH-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootD-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootC-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootB-Column1-
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootA-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-FootG-Column1-
+{
+	
+}
+
+.TableStyle-SushiTable-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-SushiTable-Body-Body1
+{
+	
+}
+
+.TableStyle-SushiTable-BodyI-Column1-Body1
+{
+	
+}
+
+.TableStyle-SushiTable-BodyI-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyE-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #0000ff;
+	border-bottom-style: solid;
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-BodyE-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyF-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #0000ff;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SushiTable-BodyF-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyH-Column1-Body1
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-BodyH-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyD-Column1-Body1
+{
+	border-bottom-width: 1px;
+	border-bottom-color: #0000ff;
+	border-bottom-style: solid;
+}
+
+.TableStyle-SushiTable-BodyD-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyC-Column1-Body1
+{
+	
+}
+
+.TableStyle-SushiTable-BodyC-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyB-Column1-Body1
+{
+	border-right-width: 1px;
+	border-right-color: #0000ff;
+	border-right-style: solid;
+}
+
+.TableStyle-SushiTable-BodyB-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyA-Column1-Body1
+{
+	
+}
+
+.TableStyle-SushiTable-BodyA-Column1-Body1 p
+{
+	
+}
+
+.TableStyle-SushiTable-BodyG-Column1-Body1
+{
+	
+}
+
+.TableStyle-SushiTable-BodyG-Column1-Body1 p
+{
+	
+}
+
+
