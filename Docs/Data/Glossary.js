@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'cuisine',c:0},{t:'culinary',c:0},{t:'recipe',c:0},{t:'restaurant',c:0},{t:'tasting',c:0}]});
